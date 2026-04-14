@@ -1,6 +1,6 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.1 Chrome/142.0.7444.265 Electron/39.8.0 Safari/537.36" version="29.6.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.2">
   <diagram name="Page-1" id="Hdw7zKDmd2KQbMEoDtIG">
-    <mxGraphModel dx="3380" dy="1323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2845" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2509,6 +2509,11 @@
         <mxCell id="7RhDNaLfKXJmjN0cHsEM-730" parent="1" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" value="" vertex="1">
           <mxGeometry height="172.13" width="333.25" x="-435.26" y="15573.57" as="geometry" />
         </mxCell>
+        <mxCell id="7RhDNaLfKXJmjN0cHsEM-731" edge="1" parent="1" source="7RhDNaLfKXJmjN0cHsEM-732" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-23.640000000000008" y="15523" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="7RhDNaLfKXJmjN0cHsEM-732" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Globe_Success.svg;" value="" vertex="1">
           <mxGeometry height="50" width="42.42" x="-290.71" y="15498" as="geometry" />
         </mxCell>
@@ -2773,6 +2778,12 @@
         </mxCell>
         <mxCell id="7RhDNaLfKXJmjN0cHsEM-806" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="3" vertex="1">
           <mxGeometry height="30" width="30" x="-148.01" y="15561" as="geometry" />
+        </mxCell>
+        <mxCell id="7RhDNaLfKXJmjN0cHsEM-807" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-227.51" y="15628" as="sourcePoint" />
+            <mxPoint x="-7.510000000000005" y="15550" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="7RhDNaLfKXJmjN0cHsEM-808" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;b&gt;Introduction to Producer-Consumer architecture&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="300" x="-613.64" y="14680" as="geometry" />
